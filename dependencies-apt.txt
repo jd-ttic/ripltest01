@@ -1,1 +1,4 @@
 # LIST YOUR APT PACKAGES HERE
+python3-setuptools
+#gnu95
+# python3-numpy
